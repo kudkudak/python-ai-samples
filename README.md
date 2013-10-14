@@ -1,4 +1,4 @@
-PythonAISamples
+Python AI and NLP samples
 ===============
 
-Some samples of my python AI simple codes
+These are few small assignments from courses I have taken in NLP and AI.
