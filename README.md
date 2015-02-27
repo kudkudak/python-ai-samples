@@ -1,4 +1,4 @@
 Python AI and NLP samples
 ===============
 
-These are few small assignments from courses I have taken in NLP and AI.
+This repository contains small scripts for common methods in AI/NLP
